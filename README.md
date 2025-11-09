@@ -9,7 +9,7 @@ This project was created to practice **Spring Data JPA**, **RESTful endpoints**,
 - Add new books
 - View all books
 - Delete books by ID
-- Filter books by category
+
 
 ---
 
